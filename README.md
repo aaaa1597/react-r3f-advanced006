@@ -3,3 +3,5 @@ React+TypeScript+R3Fのtutorial応用編6(FBXモデル表示)
 
 FBXモデルにテクスチャが貼れない～。
 <br/>解決できない～。
+
+今のところ動かないので、欠番にします。
